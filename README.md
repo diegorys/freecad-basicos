@@ -6,3 +6,7 @@ Repositorio que agrupa varias piezas básicas diseñadas en FreeCad.
 3. Prisma: 31/03/2018
 4. Pacman 2d: 31/03/2018
 5. Rueda: 31/03/2018
+6. Tubería: 01/04/2018
+7. Paralelepípedo retorcido: 01/04/2018
+8. Copa: 01/04/2018
+9. Rosca: 01/04/2018
