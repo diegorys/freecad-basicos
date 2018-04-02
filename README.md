@@ -1,5 +1,5 @@
-# Freecad Básicos
-Repositorio que agrupa varias piezas básicas diseñadas en FreeCad.
+# Freecad Examples
+Repositorio que agrupa varias piezas de ejemplo diseñadas en FreeCad.
 
 1. Estrella: 31/03/2018
 2. Flecha: 31/03/2018
