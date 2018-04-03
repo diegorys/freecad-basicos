@@ -11,3 +11,4 @@ Repositorio que agrupa varias piezas de ejemplo diseñadas en FreeCad.
 8. Copa: 01/04/2018
 9. Rosca: 01/04/2018
 10. Extrusión con torsión: 02/04/2018
+11. Repeticiones y bocetos: 03/04/2018
