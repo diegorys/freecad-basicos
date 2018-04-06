@@ -12,3 +12,5 @@ Repositorio que agrupa varias piezas de ejemplo diseñadas en FreeCad.
 9. Rosca: 01/04/2018
 10. Extrusión con torsión: 02/04/2018
 11. Repeticiones y bocetos: 03/04/2018
+12. Simetría espejo: 05/04/2018
+13. Smiley: 05/04/2018
