@@ -14,3 +14,4 @@ Repositorio que agrupa varias piezas de ejemplo diseñadas en FreeCad.
 11. Repeticiones y bocetos: 03/04/2018
 12. Simetría espejo: 05/04/2018
 13. Smiley: 05/04/2018
+14. Offset: 16/04/2018
