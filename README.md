@@ -17,3 +17,7 @@ Repositorio que agrupa varias piezas de ejemplo diseñadas en FreeCad.
 14. Offset: 16/04/2018
 15. Juego formas niños: Sin empezar
 16. Recipiente caja: 16/04/2018
+17. Importar SVG: 25/04/2018
+    - Instalar inkscape: https://inkscape.org/es/
+    - Hacer un boceto y guardar como svg plano. (prueba.svg)
+    - Desde Freecad nuevo "Part" y Archivo -> Importar como SVG.
