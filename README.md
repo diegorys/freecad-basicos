@@ -22,3 +22,4 @@ Repositorio que agrupa varias piezas de ejemplo diseñadas en FreeCad.
     - Hacer un boceto y guardar como svg plano. (prueba.svg)
     - Desde Freecad nuevo "Part" y Archivo -> Importar como SVG.
 18. Bocadillo SVG: 25/04/2018
+19. Letras "DIEGORYS": 26/04/2018
