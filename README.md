@@ -23,3 +23,4 @@ Repositorio que agrupa varias piezas de ejemplo diseñadas en FreeCad.
     - Desde Freecad nuevo "Part" y Archivo -> Importar como SVG.
 18. Bocadillo SVG: 25/04/2018
 19. Letras "DIEGORYS": 26/04/2018
+20. Plano 2d: 28/04/2018
