@@ -25,3 +25,4 @@ Repositorio que agrupa varias piezas de ejemplo diseñadas en FreeCad.
 19. Letras "DIEGORYS": 26/04/2018
 20. Plano 2d: 28/04/2018
 21. Importar STL - Prusa carro-x: 28/04/2018
+22. Importar STEP (estándar internacional para el intercambio de datos entre aplicaciones de CAD, como Inventor o Solidworks): 29/04/2018
