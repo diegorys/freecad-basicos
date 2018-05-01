@@ -15,7 +15,7 @@ Repositorio que agrupa varias piezas de ejemplo diseñadas en FreeCad.
 12. Simetría espejo: 05/04/2018
 13. Smiley: 05/04/2018
 14. Offset: 16/04/2018
-15. Juego formas niños: Sin empezar
+15. Juego formas niños: 01/05/2018
 16. Recipiente caja: 16/04/2018
 17. Importar SVG: 25/04/2018
     - Instalar inkscape: https://inkscape.org/es/
